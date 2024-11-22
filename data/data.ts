@@ -1,6 +1,6 @@
-import Author from "../classes/Author";
-import Book from "../classes/Book";
-import Library from "../classes/Library";
+import Author from "../../classes/Author";
+import Book from "../../classes/Book";
+import Library from "../../classes/Library";
 
 // Creating Author instances
 const author1 = new Author("J.K.", "Rowling", "Female");
