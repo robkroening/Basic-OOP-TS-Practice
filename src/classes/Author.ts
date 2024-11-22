@@ -1,4 +1,4 @@
-import IAuthor from '../interfaces/IAuthor';
+import IAuthor from "../interfaces/IAuthor";
 
 class Author implements IAuthor {
     // setup
